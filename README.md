@@ -1,2 +1,2 @@
 # Matlab-PDI
-Curso de Introducción al Procesamiento de Imágenes con Matlab
+Curso de Introducción al Procesamiento Digital de Imágenes con Matlab
