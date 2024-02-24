@@ -11,6 +11,6 @@ x = input('Ingresar un valor: ');
 txt = input('Escribir un mensaje: ',"s");
 
 % Grafica una funcion cuadratica
-x = [-20:20];
+x = [-20:2:20];
 y = -x.^2+5*x-21;
 plot(x,y)
