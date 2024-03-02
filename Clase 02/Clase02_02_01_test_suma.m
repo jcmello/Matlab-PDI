@@ -10,4 +10,4 @@ y = input('Ingresar valor: ');
 % Calcular la suma
 z = sumarDos(x,y);
 % Mostrar el resultado
-fprintf('El valor de la suma es: %f \n',z);
+fprintf('El valor de la suma es: %4.2f \n',z);
