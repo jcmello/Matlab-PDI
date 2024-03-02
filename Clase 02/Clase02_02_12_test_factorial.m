@@ -4,7 +4,7 @@ close all
 clc
 
 % Solicitar un numero
-x = input('Ingresar un numero entero: ');
+x = input('Ingresar un número entero: ');
 % Calcular el factorial
 fact = factorialnun(x);
-fprintf('El factorial del numero es: %d\n',fact);
+fprintf('El factorial del número es: %d\n',fact);
