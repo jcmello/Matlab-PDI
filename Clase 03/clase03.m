@@ -34,3 +34,4 @@ figure, imshow(h)
 %Invertir imagen
 I = invertirimagen(f);
 figure, imshow(I)
+imtool(f)
