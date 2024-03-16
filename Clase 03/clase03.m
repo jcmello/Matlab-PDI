@@ -30,3 +30,7 @@ compresion_tasa=image_bytes/compresion_bytes;
 h = imread('lenna-color.tif');
 figure, imshow(h)
 [F,C,P]=size(h);
+
+%Invertir imagen
+I = invertirimagen(f);
+figure, imshow(I)
